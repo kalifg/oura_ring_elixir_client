@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "bpm": 65,
+      "source": "sleep",
+      "timestamp": "2025-01-15T00:00:00+00:00"
+    },
+    {
+      "bpm": 68,
+      "source": "sleep",
+      "timestamp": "2025-01-15T00:05:00+00:00"
+    },
+    {
+      "bpm": 72,
+      "source": "awake",
+      "timestamp": "2025-01-15T08:00:00+00:00"
+    },
+    {
+      "bpm": 85,
+      "source": "workout",
+      "timestamp": "2025-01-15T10:30:00+00:00"
+    }
+  ],
+  "next_token": null
+}

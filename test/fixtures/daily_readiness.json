@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "f1e2d3c4-b5a6-7890-cdef-123456789abc",
+      "contributors": {
+        "activity_balance": 88,
+        "body_temperature": 92,
+        "hrv_balance": 85,
+        "previous_day_activity": 78,
+        "previous_night_sleep": 90,
+        "recovery_index": 82,
+        "resting_heart_rate": 95,
+        "sleep_balance": 87
+      },
+      "day": "2025-01-15",
+      "score": 86,
+      "temperature_deviation": -0.2,
+      "temperature_trend_deviation": 0.1,
+      "timestamp": "2025-01-15T12:00:00+00:00"
+    }
+  ],
+  "next_token": null
+}

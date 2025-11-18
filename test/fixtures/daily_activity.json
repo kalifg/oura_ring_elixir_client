@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+      "class_5_min": "<long_base64_string>",
+      "score": 82,
+      "active_calories": 450,
+      "average_met_minutes": 1.8,
+      "contributors": {
+        "meet_daily_targets": 85,
+        "move_every_hour": 78,
+        "recovery_time": 90,
+        "stay_active": 88,
+        "training_frequency": 75,
+        "training_volume": 80
+      },
+      "equivalent_walking_distance": 8500,
+      "high_activity_met_minutes": 120,
+      "high_activity_time": 3600,
+      "inactivity_alerts": 2,
+      "low_activity_met_minutes": 180,
+      "low_activity_time": 10800,
+      "medium_activity_met_minutes": 90,
+      "medium_activity_time": 5400,
+      "met": {
+        "interval": 60,
+        "items": [1.2, 1.5, 2.1, 1.8],
+        "timestamp": "2025-01-15T00:00:00+00:00"
+      },
+      "meters_to_target": 2000,
+      "non_wear_time": 0,
+      "resting_time": 21600,
+      "sedentary_met_minutes": 360,
+      "sedentary_time": 28800,
+      "steps": 8234,
+      "target_calories": 500,
+      "target_meters": 10500,
+      "total_calories": 2100,
+      "day": "2025-01-15",
+      "timestamp": "2025-01-15T12:00:00+00:00"
+    }
+  ],
+  "next_token": null
+}

@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "t1a2b3c4-d5e6-7890-abcd-fedcba987654",
+      "tag_type_code": "tag_generic_nocaffeine",
+      "start_time": "2025-01-15T08:00:00+00:00",
+      "end_time": "2025-01-15T23:59:59+00:00",
+      "start_day": "2025-01-15",
+      "end_day": "2025-01-15",
+      "comment": "No coffee today"
+    },
+    {
+      "id": "t2b3c4d5-e6f7-8901-bcde-gfedcba098765",
+      "tag_type_code": "tag_generic_alcohol",
+      "start_time": "2025-01-16T19:00:00+00:00",
+      "end_time": "2025-01-16T21:00:00+00:00",
+      "start_day": "2025-01-16",
+      "end_day": "2025-01-16",
+      "comment": "Glass of wine with dinner"
+    }
+  ],
+  "next_token": null
+}

@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "id": "w1x2y3z4-a5b6-7890-cdef-fedcba098765",
+      "activity": "cycling",
+      "calories": 425,
+      "day": "2025-01-15",
+      "distance": 15000.0,
+      "end_datetime": "2025-01-15T11:00:00+00:00",
+      "intensity": "moderate",
+      "label": "Morning Ride",
+      "source": "manual_entry",
+      "start_datetime": "2025-01-15T10:00:00+00:00"
+    },
+    {
+      "id": "w2y3z4a5-b6c7-8901-defg-gfedcba109876",
+      "activity": "running",
+      "calories": 350,
+      "day": "2025-01-16",
+      "distance": 5000.0,
+      "end_datetime": "2025-01-16T07:30:00+00:00",
+      "intensity": "high",
+      "label": "Morning Run",
+      "source": "autodetected",
+      "start_datetime": "2025-01-16T07:00:00+00:00"
+    }
+  ],
+  "next_token": null
+}

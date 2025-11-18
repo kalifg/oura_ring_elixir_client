@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "id": "s1a2b3c4-d5e6-7890-abcd-1234567890ab",
+      "day": "2025-01-15",
+      "start_datetime": "2025-01-15T20:00:00+00:00",
+      "end_datetime": "2025-01-15T20:15:00+00:00",
+      "type": "meditation",
+      "heart_rate": {
+        "interval": 5,
+        "items": [62, 60, 58, 57],
+        "timestamp": "2025-01-15T20:00:00+00:00"
+      },
+      "heart_rate_variability": {
+        "interval": 5,
+        "items": [45, 48, 52, 55],
+        "timestamp": "2025-01-15T20:00:00+00:00"
+      },
+      "mood": "good",
+      "motion_count": {
+        "interval": 5,
+        "items": [0, 1, 0, 0],
+        "timestamp": "2025-01-15T20:00:00+00:00"
+      }
+    }
+  ],
+  "next_token": null
+}
