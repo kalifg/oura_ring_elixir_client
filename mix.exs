@@ -5,7 +5,7 @@ defmodule OuraRingElixirClient.MixProject do
     [
       app: :oura_ring_elixir_client,
       version: "0.1.0",
-      elixir: "~> 1.14",
+      elixir: "~> 1.19",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
@@ -21,8 +21,8 @@ defmodule OuraRingElixirClient.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      # Using built-in :httpc and :json for now due to Hex.pm connectivity issues
-      # In production, use: {:httpoison, "~> 2.0"}, {:jason, "~> 1.4"}
+      {:httpoison, "~> 2.0"},
+      {:jason, "~> 1.4"}
     ]
   end
 end
